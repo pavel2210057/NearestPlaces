@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NearestPlaces</string>
+
+    <string name="wifi_missing">Отсутствует соединение с сетью</string>
+    <string name="list_is_empty">Список кинотеатров пуст</string>
+    <string name="rating_star">★</string>
+
+    <string name="vicinity">Адрес</string>
+    <string name="working_hours">Режим работы</string>
+    <string name="rating">Рейтинг: </string>
+
+    <string name="favorites">Избранное</string>
+</resources>
